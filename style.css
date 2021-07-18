@@ -91,7 +91,7 @@ aside {
     background-color: #fff;
     padding: 50px;
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: flex-start;
   }
