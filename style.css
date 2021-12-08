@@ -190,6 +190,17 @@ aside {
     text-align: center;
 }
 
+.contacts a {
+    color: #C38B68;
+    font-family: 'Roboto Slab', serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+.contacts a:hover {
+    text-decoration: underline;
+}
+
 .contact-link {
     color: #C38B68;
     font-family: 'Roboto Slab', serif;
