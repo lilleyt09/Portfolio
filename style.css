@@ -109,7 +109,7 @@ aside {
     background-color: #693029;
     font-family: 'Roboto Slab', serif;
     font-size: x-large;
-    padding: 200px;
+    padding: 150px;
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-evenly;
@@ -161,20 +161,16 @@ aside {
     text-align: center;
     text-decoration: underline;
 }
-  
-.card p {
-    color: #6A264B;
-    font-family: 'Roboto Slab', serif;
-    text-align: center;
-}
 
 .card ul {
     list-style-type: none;
 }
 
 .card img {
+    
     border-radius: 50px;
     padding: 10px;
+    margin-right: 50px;
     width: 75%;
     height: 66%;
 }
